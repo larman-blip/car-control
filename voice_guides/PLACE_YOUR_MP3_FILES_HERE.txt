@@ -1,0 +1,11 @@
+Place your recordings here named exactly as:
+1.mp3
+2.mp3
+3.mp3
+... up to 54.mp3
+
+Or using their ID format, like:
+body_alignment.mp3
+...etc.
+
+Once you upload them, compiling/building the app will bake them directly into the application so they play automatically for everyone!
